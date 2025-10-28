@@ -17,12 +17,12 @@
 > Generar una solución que lea la temperatura en grados centígrados (◦C) y la convierta a grados Farenheit (◦F) y a grados Kelvin (◦K), siempre y cuando la temperatura dada en grados centígrados sea positiva y menor o igual que cien.
 
     Formulas de ayuda:
-    * De grados Farenheit a grados centı́grados: ◦F = 9/5 (◦C ) + 32
-    * De grados Kelvin a grados centı́grados: ◦K = ◦ C + 273.15
+    * De grados centı́grados a grados Farenheit: ◦F = 9/5 (◦C ) + 32
+    * De grados centı́grados a grados Kelvin: ◦K = ◦ C + 273.15
 
 * Problema 4
 
-> En una hosteria de la ciudad de Loja se hace un descuento del 10% si el cliente se hospeda más de 5 días, del 15% si se hospeda más de 10 días y del 20% si se hospeda más de 15 días. Elaborar un solución que pida como datos de entrada el número de días y el precio diario de la habitación y luego calcule e imprima el subtotal por pagar, el descuento y el total por pagar.
+> En una hosteria de la ciudad de Loja se hace un descuento del 10% si el cliente se hospeda más de 5 días o si tiene una edad de mayor o igual 65. Elaborar un solución que pida como datos de entrada el número de días y el precio diario de la habitación y luego calcule e imprima el subtotal por pagar, el descuento y el total por pagar.
 
 * Problema 5
-> Se debe generar un algoritmo y miniespecificación que permita calcular y  mostrar el valor total a pagar mensual de servicios básicos de una persona. Los servicios básicos son: agua, telefono. Si la persona es menor a 20 años se descuenta el 20% del total mensual. Para calcular el costo mensual a pagar el agua, se debe ingresar el número de litros de agua consumidos en el mes y el costo de cada litro de agua. Para calcular el costo del teléfono, se debe ingresar el número de minutos gastados en el mes y el costo de cada minuto.
+> Se debe generar un algoritmo y miniespecificación que permita calcular y  mostrar el valor total a pagar mensual de servicios básicos de una persona. Los servicios básicos son: agua, telefono. Si la persona es menor a 20 años y su barrio es "La Argelia" o "El Valle" se descuenta el 20% del total mensual. Para calcular el costo mensual a pagar el agua, se debe ingresar el número de litros de agua consumidos en el mes y el costo de cada litro de agua. Para calcular el costo del teléfono, se debe ingresar el número de minutos gastados en el mes y el costo de cada minuto.
